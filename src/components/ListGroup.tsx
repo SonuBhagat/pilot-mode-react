@@ -1,6 +1,6 @@
 function ListGroup() {
-  const items = ["Delhi", "UP", "Haryana"];
-  const story = ["Pollution", "Ghar Mai Gus ke Marenge", "Chhori Kya Hove h"];
+  const items = ["Delhi", "UP", "Haryana", "Uttrakhand"];
+  // const story = ["Pollution", "Ghar Mai Gus ke Marenge", "Chhori Kya Hove h"];
 
   return (
     <>
